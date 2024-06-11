@@ -1,80 +1,408 @@
-[18:44:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
-[18:44:51] [main/INFO]: Loading 4 mods:
+[19:13:28] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[19:13:29] [main/WARN]: Warnings were found!
+ - Mod 'Exposure' (exposure) 1.6.0 recommends version 0.5.1-f or later of create, which is missing!
+	 - You should install version 0.5.1-f or later of create for the optimal experience.
+[19:13:29] [main/INFO]: Loading 194 mods:
+	- alternate-current 1.7.0
+	- amendments 1.20-1.2.2
+	   \-- mixinsquared 0.1.1
+	- amplified_nether 1.2.5
+	- balm-fabric 7.2.1
+	- bettercombat 1.8.5+1.20.1
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.20-Fabric-4.0.4
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterjungletemples 1.20-Fabric-2.0.4
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstrongholds 1.20-Fabric-4.0.3
+	- betterwitchhuts 1.20-Fabric-3.0.3
+	- c2me 0.2.0+alpha.11.5
+	   |-- c2me-base 0.2.0+alpha.11.5
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.5
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.5
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.5
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.5
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.5
+	   |-- c2me-notickvd 0.2.0+alpha.11.5
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.5
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.5
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.5
+	   |-- c2me-opts-math 0.2.0+alpha.11.5
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.5
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.5
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.5
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.5
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.5
+	   |-- c2me-server-utils 0.2.0+alpha.11.5
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.5
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.5
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- chas 1.20
+	- chimes 2.0.1
+	- cicada 0.7.1+1.20.1
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- clutter 1.20-0.5.8
+	- collective 7.61
+	- comforts 6.3.5+1.20.1
+	   |-- cardinal-components-base 5.2.1
+	   |-- cardinal-components-entity 5.2.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- connectiblechains 2.2.1+1.20.1
+	- convenientdecor 0.4.1
+	   \-- omega-config 1.4.0+1.20.1
+	- corndelight 1.0.4
+	- creativecore 2.11.30
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- dataloader 1.1.3+1.19.4-1.20-pre5
+	- diagonalfences 8.1.4
+	   \-- diagonalblocks 8.0.5
+	- do_a_barrel_roll 3.6.0+1.20.1
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- mixinsquared 0.1.1
+	- doubledoors 5.7
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- entityculling 1.6.5
+	- exposure 1.6.0
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
 	- fabricloader 0.15.11
 	   \-- mixinextras 0.3.5
+	- farmersdelight 1.20.1-2.1.1+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_base 2.3.4+1.20.1
+	   |    |-- com_electronwill_night-config_core 3.6.6
+	   |    |-- com_electronwill_night-config_toml 3.6.6
+	   |    |-- porting_lib_attributes 2.3.4+1.20.1
+	   |    |-- porting_lib_common 2.3.4+1.20.1
+	   |    |-- porting_lib_core 2.3.4+1.20.1
+	   |    |-- porting_lib_entity 2.3.4+1.20.1
+	   |    |-- porting_lib_fluids 2.3.4+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_transfer 2.3.4+1.20.1
+	   |    |-- porting_lib_utility 2.3.4+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_client_events 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_config 2.3.4+1.20.1
+	   |    |-- com_electronwill_night-config_core 3.6.6
+	   |    |-- com_electronwill_night-config_toml 3.6.6
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_attributes 2.3.4+1.20.1
+	   |    |-- porting_lib_common 2.3.4+1.20.1
+	   |    |-- porting_lib_core 2.3.4+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_lazy_registration 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_loot 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_networking 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_registries 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_tags 3.0
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   \-- porting_lib_tool_actions 2.3.4+1.20.1
+	        \-- porting_lib_core 2.3.4+1.20.1
+	- fastminecart 1.0.0
+	- ferritecore 6.0.1
+	- fishofthieves 3.0.5
+	- forgeconfigapiport 8.0.0
+	- friendsandfoes 2.0.10
+	- geckolib 4.4.4
+	   \-- com_eliotlash_mclib_mclib 20
+	- go-fish 1.6.3+1.20.1
+	- inmis 2.7.2-1.20.1
+	- inmisaddon 1.0.4
+	- items_displayed 1.2.2
 	- java 21
+	- jei 15.3.0.4
+	- kiwi 11.6.2
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lazydfu 0.1.3
+	- leavesbegone 8.0.0
+	- lithium 0.11.2
+	- lootr 0.7.33.81
+	- mes 1.1-1.20-fabric
 	- minecraft 1.20.1
-[18:44:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/sawtravis/Desktop/summer2024/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[18:44:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:44:57] [main/INFO]: Loaded 7 recipes
-[18:44:57] [main/INFO]: Loaded 1271 advancements
-[18:44:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[18:44:57] [Server thread/INFO]: Loading properties
-[18:44:57] [Server thread/INFO]: Default game type: SURVIVAL
-[18:44:57] [Server thread/INFO]: Generating keypair
-[18:44:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:44:57] [Server thread/INFO]: Using epoll channel type
-[18:44:57] [Server thread/INFO]: Preparing level "world"
-[18:45:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:45:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:45:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:45:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:45:04] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[18:45:05] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[18:45:05] [Worker-Main-7/INFO]: Preparing spawn area: 3%
-[18:45:06] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:06] [Worker-Main-5/INFO]: Preparing spawn area: 6%
-[18:45:07] [Worker-Main-3/INFO]: Preparing spawn area: 8%
-[18:45:07] [Worker-Main-5/INFO]: Preparing spawn area: 9%
-[18:45:08] [Worker-Main-5/INFO]: Preparing spawn area: 12%
-[18:45:08] [Worker-Main-4/INFO]: Preparing spawn area: 15%
-[18:45:09] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[18:45:09] [Worker-Main-6/INFO]: Preparing spawn area: 20%
-[18:45:10] [Worker-Main-7/INFO]: Preparing spawn area: 22%
-[18:45:10] [Worker-Main-5/INFO]: Preparing spawn area: 24%
-[18:45:11] [Worker-Main-2/INFO]: Preparing spawn area: 27%
-[18:45:11] [Worker-Main-4/INFO]: Preparing spawn area: 30%
-[18:45:12] [Worker-Main-6/INFO]: Preparing spawn area: 32%
-[18:45:12] [Worker-Main-5/INFO]: Preparing spawn area: 34%
-[18:45:13] [Worker-Main-5/INFO]: Preparing spawn area: 38%
-[18:45:13] [Worker-Main-5/INFO]: Preparing spawn area: 42%
-[18:45:14] [Worker-Main-4/INFO]: Preparing spawn area: 43%
-[18:45:14] [Worker-Main-5/INFO]: Preparing spawn area: 46%
-[18:45:15] [Worker-Main-2/INFO]: Preparing spawn area: 50%
-[18:45:15] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[18:45:16] [Worker-Main-7/INFO]: Preparing spawn area: 56%
-[18:45:17] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[18:45:17] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[18:45:17] [Worker-Main-7/INFO]: Preparing spawn area: 61%
-[18:45:18] [Worker-Main-6/INFO]: Preparing spawn area: 64%
-[18:45:18] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[18:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[18:45:20] [Worker-Main-6/INFO]: Preparing spawn area: 75%
-[18:45:20] [Worker-Main-4/INFO]: Preparing spawn area: 78%
-[18:45:21] [Worker-Main-7/INFO]: Preparing spawn area: 81%
-[18:45:21] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[18:45:22] [Worker-Main-4/INFO]: Preparing spawn area: 86%
-[18:45:22] [Worker-Main-7/INFO]: Preparing spawn area: 88%
-[18:45:23] [Worker-Main-5/INFO]: Preparing spawn area: 92%
-[18:45:23] [Worker-Main-5/INFO]: Preparing spawn area: 96%
-[18:45:24] [Server thread/INFO]: Time elapsed: 21447 ms
-[18:45:24] [Server thread/INFO]: Done (26.370s)! For help, type "help"
-[18:45:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:45:33] [Server thread/INFO]: exit<--[HERE]
-[18:45:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:45:37] [Server thread/INFO]: exit<--[HERE]
-[18:45:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:45:40] [Server thread/INFO]: exit<--[HERE]
-[18:45:45] [Server thread/INFO]: Stopping the server
-[18:45:45] [Server thread/INFO]: Stopping server
-[18:45:45] [Server thread/INFO]: Saving players
-[18:45:45] [Server thread/INFO]: Saving worlds
-[18:45:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	- moonlight 1.20-2.11.30
+	- moremobvariants 1.3.0.1
+	- mru 0.4.2+1.20.1
+	   \-- yet_another_config_lib_v3 3.4.2+1.20.1-fabric
+	        |-- com_twelvemonkeys_common_common-image 3.10.0
+	        |-- com_twelvemonkeys_common_common-io 3.10.0
+	        |-- com_twelvemonkeys_common_common-lang 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	        |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	        |-- org_quiltmc_parsers_gson 0.2.1
+	        \-- org_quiltmc_parsers_json 0.2.1
+	- naturalist 4.0.3
+	- notenoughanimations 1.7.3
+	- nullscape 1.2.5
+	- player-animator 1.0.2-rc1+1.20
+	- puzzleslib 8.1.20
+	   \-- puzzlesaccessapi 8.0.7
+	- schpeedyboats 0.0.3
+	- seasons 2.3+1.20
+	- shulkerboxtooltip 4.0.4+1.20.1
+	- smarterfarmers 1.20-1.8.2
+	- snowrealmagic 10.4.3
+	- snowundertrees 2.3.0+1.20.1
+	- sparsestructures 2.1.2
+	- starlight 1.1.2+fabric.dbc156f
+	- structory 1.3.5
+	- supplementaries 1.20-2.8.11
+	   \-- mixinsquared 0.1.1
+	- t_and_t 1.12
+	- tectonic 2.2
+	- tinyskeletons 8.0.1
+	- trinkets 3.7.2
+	- visualworkbench 8.0.0
+	- waystones 14.1.3
+	- yungsapi 1.20-Fabric-4.0.5
+	   |-- mixinextras 0.3.5
+	   \-- org_javassist_javassist 3.29.2-GA
+	- yungsextras 1.20-Fabric-4.0.3
+[19:13:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/sawtravis/Desktop/summer2024/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[19:13:29] [main/INFO]: Compatibility level set to JAVA_16
+[19:13:29] [main/INFO]: Compatibility level set to JAVA_17
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:13:30] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[19:13:30] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[19:13:31] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[19:13:31] [main/WARN]: Reference map 'smarterfarmers-fabric-refmap.json' for smarterfarmers.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:13:31] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:13:31] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:13:32] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[19:13:32] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[19:13:32] [main/WARN]: Error loading class: io/github/apace100/apoli/power/factory/condition/ConditionFactory (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/factory/condition/ConditionFactory)
+[19:13:32] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[19:13:32] [main/WARN]: @Mixin target net.minecraft.class_465 was not found creativecore.fabric.mixins.json:AbstractContainerScreenMixin from mod creativecore
+[19:13:32] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[19:13:32] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
+[19:13:32] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[19:13:32] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
+[19:13:32] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[19:13:32] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found inmis.mixins.json:client.PlayerEntityFeatureMixin from mod inmis
+[19:13:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[19:13:33] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[19:13:34] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[19:13:34] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[19:13:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19:13:39] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$cmh000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19:13:53] [main/INFO]: Loaded config amendments-common.json
+[19:13:54] [main/INFO]: Reflections took 89 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[19:13:54] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:54] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[19:13:54] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:54] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[19:13:55] [Cicada thread 0/INFO]: [do_a_barrel_roll] One day I'll finish the swimming version of this mod. One day.
+[19:13:55] [Cicada thread 0/INFO]: [do_a_barrel_roll] Though that day may come sooner than expected...
+[19:13:55] [main/INFO]: [Clutter] Finished initializing.
+[19:13:55] [main/INFO]: Loading Collective version 7.61.
+[19:13:56] [main/INFO]: Initialized entity types.
+[19:13:56] [main/INFO]: Constructing common components for diagonalblocks:main
+[19:13:56] [main/INFO]: Constructing common components for diagonalfences:main
+[19:13:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 44ms
+[19:13:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 117ms
+[19:13:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 135ms
+[19:13:57] [main/INFO]: Constructing common components for easyanvils:main
+[19:13:57] [main/INFO]: Constructing common components for easymagic:main
+[19:13:57] [main/ERROR]: No data fixer registered for rotten_tomato
+[19:13:58] [main/INFO]: Registering configs
+[19:13:58] [main/INFO]: Registering blocks
+[19:13:58] [main/INFO]: Registering items
+[19:13:58] [main/INFO]: Registering item groups
+[19:13:58] [main/INFO]: Registering entities
+[19:13:58] [main/INFO]: Registering tags
+[19:13:58] [main/INFO]: Registering event handlers
+[19:13:58] [main/INFO]: Processing 3 KiwiModule annotations
+[19:13:59] [main/INFO]: Module [kiwi:contributors] initialized
+[19:13:59] [main/INFO]: Module [snowrealmagic:core] initialized
+[19:13:59] [main/INFO]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[19:13:59] [main/INFO]: Module [kiwi:data] initialized
+[19:13:59] [main/INFO]: 		recipe_serializer: 3
+[19:13:59] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[19:13:59] [main/INFO]: Constructing common components for leavesbegone:main
+[19:13:59] [main/INFO]: Definitely not up to no good
+[19:13:59] [main/INFO]: Giving mobs a fresh coat of paint...
+[19:14:00] [main/INFO]: Constructing common components for puzzleslib:main
+[19:14:00] [main/INFO]: [Fabric Seasons] Trying to read config file...
+[19:14:00] [main/INFO]: [Fabric Seasons] A config file was found, loading it..
+[19:14:00] [main/INFO]: [Fabric Seasons] Successfully loaded config file.
+[19:14:00] [main/INFO]: Deserializing SnowUnderTreesConfig from './config/snowundertrees.config.json'
+[19:14:00] [main/INFO]: Loaded config supplementaries-common.json
+[19:14:01] [main/INFO]: Constructing common components for tinyskeletons:main
+[19:14:01] [main/ERROR]: No data fixer registered for baby_skeleton
+[19:14:01] [main/ERROR]: No data fixer registered for baby_wither_skeleton
+[19:14:01] [main/ERROR]: No data fixer registered for baby_stray
+[19:14:01] [main/INFO]: Constructing common components for visualworkbench:main
+[19:14:01] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 4 values
+[19:14:01] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
+[19:14:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:14:01] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[19:14:01] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[19:14:02] [main/INFO]: Initialized block sets in 31ms
+[19:14:02] [main/ERROR]: No data fixer registered for falling_lantern
+[19:14:02] [main/ERROR]: No data fixer registered for dispenser_minecart
+[19:14:02] [main/ERROR]: No data fixer registered for falling_urn
+[19:14:02] [main/ERROR]: No data fixer registered for falling_ash
+[19:14:02] [main/ERROR]: No data fixer registered for falling_sack
+[19:14:02] [main/ERROR]: No data fixer registered for brick_projectile
+[19:14:02] [main/ERROR]: No data fixer registered for bomb
+[19:14:02] [main/ERROR]: No data fixer registered for rope_arrow
+[19:14:02] [main/ERROR]: No data fixer registered for slingshot_projectile
+[19:14:02] [main/INFO]: Loaded config smarterfarmers-common.json
+[19:14:02] [main/INFO]: Initialized color sets in 64ms
+[19:14:02] [main/INFO]: Finished mod setup in: [0, 1, 0, 0, 0, 0, 18, 2] ms
+[19:14:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:14:03] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
+[19:14:03] [main/INFO]: Found new data pack fabric, loading it automatically
+[19:14:03] [main/INFO]: Found new data pack resources/t_and_t_waystones_patch_1.19.2, loading it automatically
+[19:14:03] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
+[19:14:03] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 79 ms
+[19:14:05] [main/ERROR]: Registry loading errors:
+> Errors in registry minecraft:worldgen/placed_feature:
+>> Errors in element corndelight:patch_wild_corn:
+java.lang.IllegalStateException: Failed to parse corndelight:worldgen/placed_feature/patch_wild_corn.json from pack fabric
+	at net.minecraft.class_7655.method_45122(class_7655.java:179)
+	at net.minecraft.class_7655$class_7657.method_45132(class_7655.java:61)
+	at net.minecraft.class_7655.method_45120(class_7655.java:98)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at net.minecraft.class_7655.method_45121(class_7655.java:98)
+	at net.minecraft.class_7237.method_45142(class_7237.java:67)
+	at net.minecraft.class_7237.method_45143(class_7237.java:71)
+	at net.minecraft.class_7237.method_42098(class_7237.java:34)
+	at net.minecraft.server.Main.method_43612(Main.java:162)
+	at net.minecraft.class_156.method_43498(class_156.java:944)
+	at net.minecraft.class_156.method_43499(class_156.java:938)
+	at net.minecraft.server.Main.main(Main.java:160)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+Caused by: java.lang.RuntimeException: Unknown registry key in ResourceKey[minecraft:root / minecraft:worldgen/placement_modifier_type]: farmersdelight:biome_is_overworld
+	at com.mojang.serialization.DataResult.lambda$getOrThrow$5(DataResult.java:101)
+	at com.mojang.datafixers.util.Either$Right.map(Either.java:99)
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:93)
+	at net.minecraft.class_7655.method_45122(class_7655.java:176)
+	... 16 more
+
+[19:14:05] [main/WARN]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Failed to load registries due to above errors
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:209) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[summer2024.jar:1.0.1]
+Caused by: java.lang.IllegalStateException: Failed to load registries due to above errors
+	at net.minecraft.class_7655.method_45121(class_7655.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7237.method_45142(class_7237.java:67) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7237.method_45143(class_7237.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7237.method_42098(class_7237.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.method_43612(Main.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:944) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	... 5 more
