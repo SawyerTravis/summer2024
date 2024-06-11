@@ -1,0 +1,80 @@
+[18:44:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[18:44:51] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- java 21
+	- minecraft 1.20.1
+[18:44:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/sawtravis/Desktop/summer2024/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[18:44:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:44:57] [main/INFO]: Loaded 7 recipes
+[18:44:57] [main/INFO]: Loaded 1271 advancements
+[18:44:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:44:57] [Server thread/INFO]: Loading properties
+[18:44:57] [Server thread/INFO]: Default game type: SURVIVAL
+[18:44:57] [Server thread/INFO]: Generating keypair
+[18:44:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:44:57] [Server thread/INFO]: Using epoll channel type
+[18:44:57] [Server thread/INFO]: Preparing level "world"
+[18:45:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:45:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:45:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:45:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:45:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:45:04] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[18:45:05] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[18:45:05] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[18:45:06] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:45:06] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[18:45:07] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[18:45:07] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[18:45:08] [Worker-Main-5/INFO]: Preparing spawn area: 12%
+[18:45:08] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[18:45:09] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[18:45:09] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[18:45:10] [Worker-Main-7/INFO]: Preparing spawn area: 22%
+[18:45:10] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[18:45:11] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[18:45:11] [Worker-Main-4/INFO]: Preparing spawn area: 30%
+[18:45:12] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[18:45:12] [Worker-Main-5/INFO]: Preparing spawn area: 34%
+[18:45:13] [Worker-Main-5/INFO]: Preparing spawn area: 38%
+[18:45:13] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[18:45:14] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[18:45:14] [Worker-Main-5/INFO]: Preparing spawn area: 46%
+[18:45:15] [Worker-Main-2/INFO]: Preparing spawn area: 50%
+[18:45:15] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[18:45:16] [Worker-Main-7/INFO]: Preparing spawn area: 56%
+[18:45:17] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[18:45:17] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[18:45:17] [Worker-Main-7/INFO]: Preparing spawn area: 61%
+[18:45:18] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[18:45:18] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[18:45:19] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[18:45:19] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[18:45:20] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[18:45:20] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[18:45:21] [Worker-Main-7/INFO]: Preparing spawn area: 81%
+[18:45:21] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[18:45:22] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[18:45:22] [Worker-Main-7/INFO]: Preparing spawn area: 88%
+[18:45:23] [Worker-Main-5/INFO]: Preparing spawn area: 92%
+[18:45:23] [Worker-Main-5/INFO]: Preparing spawn area: 96%
+[18:45:24] [Server thread/INFO]: Time elapsed: 21447 ms
+[18:45:24] [Server thread/INFO]: Done (26.370s)! For help, type "help"
+[18:45:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:45:33] [Server thread/INFO]: exit<--[HERE]
+[18:45:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:45:37] [Server thread/INFO]: exit<--[HERE]
+[18:45:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:45:40] [Server thread/INFO]: exit<--[HERE]
+[18:45:45] [Server thread/INFO]: Stopping the server
+[18:45:45] [Server thread/INFO]: Stopping server
+[18:45:45] [Server thread/INFO]: Saving players
+[18:45:45] [Server thread/INFO]: Saving worlds
+[18:45:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
