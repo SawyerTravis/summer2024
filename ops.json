@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "41ed5b12-8b42-4081-bd9e-b091d9230e7b",
+    "name": "Plamere",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9531872d-e7b1-4154-9958-f7debc761338",
+    "name": "SCHOENINGB",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e31decb3-2343-4fd9-8208-f32ef080d987",
+    "name": "SoySauce63",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

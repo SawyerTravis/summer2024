@@ -1,77 +1,27 @@
-[20:18:21] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
-[20:18:22] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.15.11
-	   \-- mixinextras 0.3.5
-	- java 21
-	- minecraft 1.20.1
-[20:18:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/sawtravis/Desktop/summer2024/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[20:18:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:18:39] [main/INFO]: Loaded 7 recipes
-[20:18:40] [main/INFO]: Loaded 1271 advancements
-[20:18:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:18:40] [Server thread/INFO]: Loading properties
-[20:18:40] [Server thread/INFO]: Default game type: SURVIVAL
-[20:18:40] [Server thread/INFO]: Generating keypair
-[20:18:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:18:41] [Server thread/INFO]: Using epoll channel type
-[20:18:41] [Server thread/INFO]: Preparing level "world"
-[20:18:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:56] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[20:18:57] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[20:18:57] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[20:18:58] [Worker-Main-6/INFO]: Preparing spawn area: 61%
-[20:18:58] [Worker-Main-7/INFO]: Preparing spawn area: 88%
-[20:18:58] [Server thread/INFO]: Time elapsed: 13760 ms
-[20:18:58] [Server thread/INFO]: Done (17.212s)! For help, type "help"
-[20:20:37] [User Authenticator #1/INFO]: UUID of player Plamere is 41ed5b12-8b42-4081-bd9e-b091d9230e7b
-[20:20:37] [Server thread/INFO]: Plamere[/97.121.165.139:65077] logged in with entity id 195 at (17.5, 93.0, -5.5)
-[20:20:37] [Server thread/INFO]: Plamere joined the game
-[20:20:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:20:49] [Server thread/INFO]: add Plamere<--[HERE]
-[20:20:58] [Server thread/INFO]: Added Plamere to the whitelist
-[20:21:37] [User Authenticator #2/INFO]: UUID of player SCHOENINGB is 9531872d-e7b1-4154-9958-f7debc761338
-[20:21:37] [Server thread/INFO]: SCHOENINGB[/73.203.117.106:63351] logged in with entity id 503 at (22.5, 93.0, 10.5)
-[20:21:37] [Server thread/INFO]: SCHOENINGB joined the game
-[20:21:44] [Server thread/INFO]: Plamere has made the advancement [Monster Hunter]
-[20:21:53] [Server thread/INFO]: Incorrect argument for command
-[20:21:53] [Server thread/INFO]: ...telist add <--[HERE]
-[20:21:57] [Server thread/INFO]: Plamere was slain by SCHOENINGB
-[20:22:01] [Server thread/INFO]: SCHOENINGB fell from a high place
-[20:22:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:22:15] [Server thread/INFO]: Server:         127.0.0./stop<--[HERE]
-[20:22:21] [Server thread/INFO]: Stopping the server
-[20:22:21] [Server thread/INFO]: Stopping server
-[20:22:21] [Server thread/INFO]: Saving players
-[20:22:21] [Server thread/INFO]: Plamere lost connection: Server closed
-[20:22:21] [Server thread/INFO]: Plamere left the game
-[20:22:21] [Server thread/INFO]: Saving worlds
-[20:22:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:22:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:22:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:16] [Server thread/INFO]: Plamere has made the advancement [Diamonds!]
+[00:00:40] [Server thread/INFO]: SCHOENINGB lost connection: Disconnected
+[00:00:40] [Server thread/INFO]: SCHOENINGB left the game
+[00:00:56] [Server thread/INFO]: SoySauce63 lost connection: Disconnected
+[00:00:56] [Server thread/INFO]: SoySauce63 left the game
+[00:01:50] [Server thread/INFO]: Plamere lost connection: Disconnected
+[00:01:50] [Server thread/INFO]: Plamere left the game
+[00:02:02] [Server thread/INFO]: Stopping the server
+[00:02:02] [Server thread/INFO]: Stopping server
+[00:02:02] [Server thread/INFO]: Saving players
+[00:02:02] [Server thread/INFO]: Saving worlds
+[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:02] [C2ME Storage #3/INFO]: Storage thread Thread[#83,C2ME Storage #3,8,main] stopped
+[00:02:02] [C2ME Storage #2/INFO]: Storage thread Thread[#82,C2ME Storage #2,8,main] stopped
+[00:02:02] [C2ME Storage #1/INFO]: Storage thread Thread[#81,C2ME Storage #1,8,main] stopped
+[00:02:02] [C2ME Storage #6/INFO]: Storage thread Thread[#86,C2ME Storage #6,8,main] stopped
+[00:02:02] [C2ME Storage #5/INFO]: Storage thread Thread[#85,C2ME Storage #5,8,main] stopped
+[00:02:02] [C2ME Storage #4/INFO]: Storage thread Thread[#84,C2ME Storage #4,8,main] stopped
+[00:02:02] [C2ME Storage #9/INFO]: Storage thread Thread[#89,C2ME Storage #9,8,main] stopped
+[00:02:02] [C2ME Storage #8/INFO]: Storage thread Thread[#88,C2ME Storage #8,8,main] stopped
+[00:02:02] [C2ME Storage #7/INFO]: Storage thread Thread[#87,C2ME Storage #7,8,main] stopped
