@@ -1,27 +1,32 @@
-[00:00:16] [Server thread/INFO]: Plamere has made the advancement [Diamonds!]
-[00:00:40] [Server thread/INFO]: SCHOENINGB lost connection: Disconnected
-[00:00:40] [Server thread/INFO]: SCHOENINGB left the game
-[00:00:56] [Server thread/INFO]: SoySauce63 lost connection: Disconnected
-[00:00:56] [Server thread/INFO]: SoySauce63 left the game
-[00:01:50] [Server thread/INFO]: Plamere lost connection: Disconnected
-[00:01:50] [Server thread/INFO]: Plamere left the game
-[00:02:02] [Server thread/INFO]: Stopping the server
-[00:02:02] [Server thread/INFO]: Stopping server
-[00:02:02] [Server thread/INFO]: Saving players
-[00:02:02] [Server thread/INFO]: Saving worlds
-[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:02:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:02:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:02:02] [C2ME Storage #3/INFO]: Storage thread Thread[#83,C2ME Storage #3,8,main] stopped
-[00:02:02] [C2ME Storage #2/INFO]: Storage thread Thread[#82,C2ME Storage #2,8,main] stopped
-[00:02:02] [C2ME Storage #1/INFO]: Storage thread Thread[#81,C2ME Storage #1,8,main] stopped
-[00:02:02] [C2ME Storage #6/INFO]: Storage thread Thread[#86,C2ME Storage #6,8,main] stopped
-[00:02:02] [C2ME Storage #5/INFO]: Storage thread Thread[#85,C2ME Storage #5,8,main] stopped
-[00:02:02] [C2ME Storage #4/INFO]: Storage thread Thread[#84,C2ME Storage #4,8,main] stopped
-[00:02:02] [C2ME Storage #9/INFO]: Storage thread Thread[#89,C2ME Storage #9,8,main] stopped
-[00:02:02] [C2ME Storage #8/INFO]: Storage thread Thread[#88,C2ME Storage #8,8,main] stopped
-[00:02:02] [C2ME Storage #7/INFO]: Storage thread Thread[#87,C2ME Storage #7,8,main] stopped
+[00:08:36] [Server thread/INFO]: lilgoose01 has made the advancement [Ice Bucket Challenge]
+[00:20:10] [pool-10-thread-10/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos class_2338{x=-2661, y=83, z=-4229}
+[00:46:14] [Server thread/INFO]: lilgoose01 has made the advancement [Best Friends Forever]
+[00:47:58] [Server thread/INFO]: lilgoose01 lost connection: Disconnected
+[00:47:58] [Server thread/INFO]: lilgoose01 left the game
+[20:38:15] [User Authenticator #168/INFO]: UUID of player Plamere is 41ed5b12-8b42-4081-bd9e-b091d9230e7b
+[20:38:15] [Server thread/INFO]: Plamere[/97.121.165.139:59994] logged in with entity id 936277 at (1292.9256623247454, 115.0, -1062.7926892922358)
+[20:38:15] [Server thread/INFO]: Plamere joined the game
+[20:38:15] [Netty Epoll Server IO #8/INFO]: [do_a_barrel_roll] Client of Plamere accepted server config.
+[20:38:15] [Netty Epoll Server IO #8/INFO]: [ShulkerBoxTooltip] Plamere: protocol version: 2.0
+[20:39:54] [Server thread/INFO]: Plamere lost connection: Disconnected
+[20:39:54] [Server thread/INFO]: Plamere left the game
+[22:09:20] [Server thread/INFO]: Stopping the server
+[22:09:20] [Server thread/INFO]: Stopping server
+[22:09:20] [Server thread/INFO]: Saving players
+[22:09:20] [Server thread/INFO]: Saving worlds
+[22:09:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:09:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:09:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:09:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:09:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:09:20] [C2ME Storage #3/INFO]: Storage thread Thread[#83,C2ME Storage #3,8,main] stopped
+[22:09:21] [C2ME Storage #2/INFO]: Storage thread Thread[#82,C2ME Storage #2,8,main] stopped
+[22:09:21] [C2ME Storage #1/INFO]: Storage thread Thread[#81,C2ME Storage #1,8,main] stopped
+[22:09:21] [C2ME Storage #6/INFO]: Storage thread Thread[#86,C2ME Storage #6,8,main] stopped
+[22:09:21] [C2ME Storage #5/INFO]: Storage thread Thread[#85,C2ME Storage #5,8,main] stopped
+[22:09:21] [C2ME Storage #4/INFO]: Storage thread Thread[#84,C2ME Storage #4,8,main] stopped
+[22:09:21] [C2ME Storage #9/INFO]: Storage thread Thread[#89,C2ME Storage #9,8,main] stopped
+[22:09:21] [C2ME Storage #8/INFO]: Storage thread Thread[#88,C2ME Storage #8,8,main] stopped
+[22:09:21] [C2ME Storage #7/INFO]: Storage thread Thread[#87,C2ME Storage #7,8,main] stopped
