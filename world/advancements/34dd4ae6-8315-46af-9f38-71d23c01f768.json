@@ -33,8 +33,10 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-22 16:29:02 -0600",
       "minecraft:old_growth_pine_taiga": "2024-06-25 00:12:23 -0600",
+      "minecraft:taiga": "2024-06-26 23:21:44 -0600",
       "minecraft:deep_ocean": "2024-06-22 13:46:20 -0600",
       "minecraft:eroded_badlands": "2024-06-23 18:54:41 -0600",
+      "minecraft:frozen_river": "2024-06-26 23:19:56 -0600",
       "minecraft:sunflower_plains": "2024-06-22 13:56:23 -0600",
       "minecraft:birch_forest": "2024-06-25 00:12:01 -0600",
       "minecraft:wooded_badlands": "2024-06-22 14:00:20 -0600",
@@ -45,10 +47,13 @@
       "minecraft:lukewarm_ocean": "2024-06-22 16:09:57 -0600",
       "minecraft:river": "2024-06-23 19:27:41 -0600",
       "minecraft:stony_shore": "2024-06-22 14:22:26 -0600",
+      "minecraft:dripstone_caves": "2024-06-26 23:20:18 -0600",
+      "minecraft:snowy_taiga": "2024-06-26 23:18:10 -0600",
       "minecraft:grove": "2024-06-22 14:28:07 -0600",
       "minecraft:jagged_peaks": "2024-06-22 16:39:15 -0600",
       "minecraft:cold_ocean": "2024-06-22 13:40:46 -0600",
       "minecraft:forest": "2024-06-22 13:47:49 -0600",
+      "minecraft:lush_caves": "2024-06-26 23:21:05 -0600",
       "minecraft:deep_cold_ocean": "2024-06-22 13:41:38 -0600",
       "minecraft:desert": "2024-06-22 13:58:15 -0600",
       "minecraft:ocean": "2024-06-22 13:45:04 -0600",
@@ -120,8 +125,11 @@
       "minecraft:blaze": "2024-06-22 17:28:11 -0600",
       "minecraft:pillager": "2024-06-23 18:49:06 -0600",
       "minecraft:skeleton": "2024-06-22 14:50:28 -0600",
+      "minecraft:ghast": "2024-06-26 22:50:40 -0600",
       "minecraft:hoglin": "2024-06-22 17:18:47 -0600",
+      "minecraft:magma_cube": "2024-06-26 22:44:05 -0600",
       "minecraft:spider": "2024-06-22 16:31:57 -0600",
+      "minecraft:piglin_brute": "2024-06-26 23:04:42 -0600",
       "minecraft:creeper": "2024-06-22 15:12:24 -0600",
       "minecraft:zombified_piglin": "2024-06-24 16:28:14 -0600",
       "minecraft:witch": "2024-06-22 15:10:56 -0600",
@@ -1448,7 +1456,8 @@
     "criteria": {
       "cooked_cod": "2024-06-23 18:48:28 -0600",
       "bread": "2024-06-22 13:49:05 -0600",
-      "golden_apple": "2024-06-22 15:12:03 -0600"
+      "golden_apple": "2024-06-22 15:12:03 -0600",
+      "suspicious_stew": "2024-06-27 09:50:43 -0600"
     },
     "done": false
   },
@@ -4717,6 +4726,354 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-25 20:38:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-06-26 22:40:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-06-26 22:40:55 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx_stairs": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_wall": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_stairs": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx_wall": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_slab": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_block": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx_slab": {
+    "criteria": {
+      "has_sulphur": "2024-06-26 22:59:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-06-26 23:04:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-06-26 23:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-06-26 23:08:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-06-26 23:08:45 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-06-26 23:09:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:clutter/the_butterfly_effect": {
+    "criteria": {
+      "requirement": "2024-06-26 23:12:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-06-26 23:15:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-06-26 23:15:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-06-26 23:18:09 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-06-26 23:21:15 -0600"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-06-26 23:21:15 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-06-26 23:26:54 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-06-26 23:26:54 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-06-26 23:26:54 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-26 23:26:55 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-26 23:26:55 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-06-26 23:26:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-06-27 13:48:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-06-27 09:50:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-06-27 13:48:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/tall_bottle": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/wine_glass": {
+    "criteria": {
+      "has_glass": "2024-06-27 09:39:45 -0600"
     },
     "done": true
   },
