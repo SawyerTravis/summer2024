@@ -1,4 +1,3 @@
-
 [UI]
 	#Film Roll Frames will be shown in the camera tooltip.
 	#Default: true
@@ -31,18 +30,16 @@
 		#Allows opening camera controls without dismounting from a vehicle - and keeping controls on sneak as well.
 		#Default: true
 		MiddleClickOpensControls = true
-
 [Capture]
 	#Delay in ticks before capturing an image when shooting with flash.
 	#If you experience flash synchronization issues (Flash having no effect on the image) - try increasing the value.
-	#Range: 1 ~ 6
+	#Range: 1 ~ 7
 	FlashCaptureDelayTicks = 3
 	#Delay in frames before capturing an image.
 	#Set to higher value when leftovers of GUI elements (such as nameplates) are visible on the images
 	#(some shaders have temporal effects that take several frames to disappear fully)
 	#Range: 0 ~ 100
 	CaptureDelayFrames = 0
-
 [FileSaving]
 	#When saving, exposures will be placed into folder corresponding to current world name.
 	WorldNameSubfolder = true
@@ -54,4 +51,17 @@
 	Size = "X2"
 	#When the Photograph is viewed in UI, image will be saved to 'exposures' folder as a png.
 	SavePhotographs = true
-
+[Render]
+	#Projected photographs (using Interplanar Projector) made by other players will not be rendered.
+	HideProjectedPhotographsMadeByOthers = false
+	#All photographs made by other players will not be rendered.
+	HideAllPhotographsMadeByOthers = false
+	#Distance from the player beyond which Photograph Frame would not be rendered. Default: 64
+	#Note: this number may not relate to distance in blocks exactly. It's influenced by onRender distance and entity distance settings.
+	#Range: 8 ~ 128
+	PhotographFrameCullingDistance = 64
+[Integration]
+	#Useful information about some items will be shown in JEI description category. Default: true
+	JeiInformation = true
+	#[Real Camera] Disable player model rendering when looking through viewfinder. Default: true
+	RealCameraDisableInViewfinder = true

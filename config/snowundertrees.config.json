@@ -53,5 +53,7 @@
 		"wilderwild:snowy_dying_mixed_forest",
 		"wilderwild:snowy_old_growth_pine_taiga",
 		"promenade:glacarian_taiga"
-	]
+	],
+	"respectSeasonMods": true,
+	"meltSnowSeasonally": true
 }
